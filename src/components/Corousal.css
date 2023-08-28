@@ -1,0 +1,6 @@
+.corousal {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  margin: 0px 70px 0px 70px;
+}

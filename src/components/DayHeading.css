@@ -1,0 +1,7 @@
+.dayheading {
+  display: flex;
+  justify-content: center;
+  margin: 50px;
+  margin-bottom: 0px;
+  font-size: 20px;
+}

@@ -1,0 +1,11 @@
+.attendencebar {
+  height: 200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #023047;
+}
+.attendencebar h1 {
+  font-size: 4rem;
+  color: white;
+}

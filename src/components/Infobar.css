@@ -1,0 +1,28 @@
+.info {
+  background-color: #219ebc;
+}
+.info-content {
+  display: flex;
+  flex-direction: row;
+  margin: 0px 90px 0px 90px;
+  color: white;
+  padding: 10px;
+}
+.user-picture {
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  border-radius: 50%;
+}
+.details {
+  margin-left: 30px;
+  margin-top: 20px;
+  font-weight: 700;
+  line-height: 1.3;
+}
+.details-right {
+  margin-left: 500px;
+  margin-top: 20px;
+  font-weight: 700;
+  line-height: 1.3;
+}
